@@ -1,0 +1,15 @@
+{
+  "name": "next-gen-rpc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cyberwider/next-gen-rpc.git",
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler publish"
+  },
+  "dependencies": {
+    "wrangler": "2.20.0"
+  }
+}
