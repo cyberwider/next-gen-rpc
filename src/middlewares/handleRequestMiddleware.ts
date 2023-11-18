@@ -9,7 +9,10 @@ class HandleRequestMiddleware extends Middleware {
     slug: string = "handleRequest"
 
     async process(context: RequestContext): Promise<void> {
-        await handleHttpRequest(context);
+        if (isWebsocketRequest(context.request.headers)) {
+            await handleWsRequest(context);
+        } else {
+            await handleHttpRequest(context);
     }
 }
 
