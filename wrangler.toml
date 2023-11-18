@@ -1,0 +1,15 @@
+name = "next-gen-rpc"
+main = "src/index.ts"
+compatibility_date = "2023-03-15"
+
+kv_namespaces = [
+    { binding = "CONFIG_KV", id = "", preview_id = "" },
+]
+
+# [triggers]
+# crons = ["* * * * *"]
+
+
+[vars]
+ALLOWED_CLIENT_IP = [] # ["0.0.0.0", ...]
+ALLOWED_USER_AGENTS = [] # [".*Mozilla*.*", "insomnia/2022.5.0"]
