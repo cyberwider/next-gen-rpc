@@ -1,6 +1,21 @@
 import {Env, Origin, Weights} from './types';
 import {calculateDistance} from "./utils";
 
+const DEFAULT_WEIGHTS: Weights = {
+    failWeight: 1_000_000,
+    lagWeight: 10_000,
+    latencyWeight: 1_000,
+    distanceWeight: 1,
+};
+
+function getScore(config: Config, lat: number | null, lon: number | null, origin: Origin) {
+    let successWeight = origin.lastCheckResult?.success ? config.weights.failWeight : 0;
+    let distanceWeight = calculateDistance(lat, lon, origin.lat, origin.lon);
+    let latencyWeight = origin.lastCheckResult.responseTime * 1000;
+    let lagWeight = origin.lastCheckResult.lag * 10000;
+    return successWeight + distanceWeight + latencyWeight + lagWeight;
+}
+
 class Config {
     origins: Origin[]
     weights: Weights
