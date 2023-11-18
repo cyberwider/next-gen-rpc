@@ -13,6 +13,7 @@ class HandleRequestMiddleware extends Middleware {
             await handleWsRequest(context);
         } else {
             await handleHttpRequest(context);
+        }
     }
 }
 
