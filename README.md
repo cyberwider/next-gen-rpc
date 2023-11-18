@@ -1,9 +1,9 @@
 
 <div align="center">
-  <h1 align="center">Next Gen RPC Endpoint</h1>
+  <h1 align="center">Next Gen RPC Node</h1>
 
   <p align="center">
-    Introducing the Next Gen RPC Endpoint: A robust solution that combines multiple RPC endpoints to enhance availability, reduce latency, and bolster security. This open-source tool is perfect for all DApp developers seeking reliable and efficient endpoint management.
+    Introducing the Next Gen RPC Node: A robust solution that combines multiple RPC endpoints to enhance availability, reduce latency, and bolster security. This open-source tool is perfect for all DApp developers seeking reliable and efficient endpoint management.
   </p>
 </div>
 
