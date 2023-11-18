@@ -2,6 +2,7 @@ import {RequestContext} from "../types";
 
 async function makeRequestToServer(url: URL, headers: Headers): Promise<Response> {
     // workers will not work with wss, only https
+    url.protocol = ["ws:", "wss:"].includes(url.protocol) ? "https" : url.protocol;
     return await fetch(url, {headers: headers});
 }
 
@@ -20,6 +21,13 @@ async function handleWsRequest(context: RequestContext): Promise<void> {
         try {
             const url: URL = new URL(origin.wsEndpoint);
             serverResponse = await makeRequestToServer(url, request.headers);
+
+            if (serverResponse.status >= 500) {
+                console.error(`Failed to fetch ${origin.slug} exception, do failover`);
+            } else {
+                context.response = serverResponse;
+                break;
+            }
         } catch (e) {
             console.error(e);
             break;
