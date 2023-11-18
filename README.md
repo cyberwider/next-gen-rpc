@@ -7,6 +7,9 @@
   </p>
 </div>
 
+## Applicable for such blockchain protocols:
+Ethereum, BSC, Polygon, Scroll, Gnosis Chain, Mina, Arbitrum, zkSync, Filecoin EVM, Near’s Aurora EVM, Starknet, Mantle, Base, Neon EVM, Aztec
+
 ## Simplified Architecture Overview
 
 Our system utilizes [Cloudflare Workers](https://workers.cloudflare.com/) alongside the Cloudflare KV Storage plugin and the Cloudflare Caching API for optimal performance and reliability.
