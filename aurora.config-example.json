@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "Aurora (Near's EVM) Public RPC 1",
+    "httpEndpoint": "https://mainnet.aurora.dev",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  },
+  {
+    "slug": "Aurora (Near's EVM) Public RPC 2",
+    "httpEndpoint": "https://aurora.drpc.org",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  },
+  {
+    "slug": "Aurora (Near's EVM) Public RPC 3",
+    "httpEndpoint": "https://1rpc.io/aurora",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  }
+]
+

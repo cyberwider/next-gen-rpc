@@ -1,0 +1,9 @@
+[
+  {
+    "slug": "Aztec Public RPC 1",
+    "httpEndpoint": "https://mainnet-fork.aztec.network",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  }
+]

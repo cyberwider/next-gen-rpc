@@ -1,0 +1,9 @@
+[
+  {
+    "slug": "Starknet Public RPC 1",
+    "httpEndpoint": "https://starknet-mainnet.public.blastapi.io",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  }
+]

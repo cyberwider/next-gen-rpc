@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "Scroll Public RPC 1",
+    "httpEndpoint": "https://rpc.scroll.io",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  },
+  {
+    "slug": "Scroll Public RPC 2",
+    "httpEndpoint": "https://scroll.blockpi.network/v1/rpc/public",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  },
+  {
+    "slug": "Scroll Public RPC 3",
+    "httpEndpoint": "https://scroll-mainnet.chainstacklabs.com",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  }
+]
+

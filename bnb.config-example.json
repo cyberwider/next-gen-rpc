@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "BNB Chain Public RPC 1",
+    "httpEndpoint": "https://bsc-dataseed1.bnbchain.org",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  },
+  {
+    "slug": "BNB Chain Public RPC 2",
+    "httpEndpoint": "https://bsc-dataseed2.bnbchain.org",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  },
+  {
+    "slug": "BNB Chain Public RPC 3",
+    "httpEndpoint": "https://bsc-dataseed3.bnbchain.org",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  }
+]
+

@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "Arbitrum Public RPC 1",
+    "httpEndpoint": "https://arbitrum.llamarpc.com",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  },
+  {
+    "slug": "Arbitrum Public RPC 2",
+    "httpEndpoint": "https://rpc.ankr.com/arbitrum",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  },
+  {
+    "slug": "Arbitrum Public RPC 3",
+    "httpEndpoint": "https://arbitrum-one.public.blastapi.io",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  }
+]
+

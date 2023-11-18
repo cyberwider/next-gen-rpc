@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "Polygon Public RPC 1",
+    "httpEndpoint": "https://polygon.llamarpc.com",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  },
+  {
+    "slug": "Polygon Public RPC 2",
+    "httpEndpoint": "https://gateway.tenderly.co/public/polygon",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  },
+  {
+    "slug": "Polygon Public RPC 3",
+    "httpEndpoint": "https://rpc.ankr.com/polygon",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  }
+]
+

@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "Mantle Public RPC 1",
+    "httpEndpoint": "https://rpc.mantle.xyz",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  },
+  {
+    "slug": "Mantle Public RPC 2",
+    "httpEndpoint": "https://mantle-mainnet.public.blastapi.io",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  },
+  {
+    "slug": "Mantle Public RPC 3",
+    "httpEndpoint": "https://mantle.drpc.org",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  }
+]
+

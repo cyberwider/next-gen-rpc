@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "Filecoin EVM Public RPC 1",
+    "httpEndpoint": "https://rpc.ankr.com/filecoin",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  },
+  {
+    "slug": "Filecoin EVM Public RPC 2",
+    "httpEndpoint": "https://filecoin.chainup.net/rpc/v1",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  }
+]
+

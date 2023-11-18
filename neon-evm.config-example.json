@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "Neon EVM Public RPC 1",
+    "httpEndpoint": "https://neon-mainnet.everstake.one",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  },
+  {
+    "slug": "Neon EVM Public RPC 1",
+    "httpEndpoint": "https://neon-proxy-mainnet.solana.p2p.org",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  }
+]
+

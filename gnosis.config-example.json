@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "Gnosis Public RPC 1",
+    "httpEndpoint": "https://gnosis-pokt.nodies.app",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  },
+  {
+    "slug": "Gnosis Public RPC 2",
+    "httpEndpoint": "https://gnosis.publicnode.com",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  },
+  {
+    "slug": "Gnosis Public RPC 3",
+    "httpEndpoint": "https://rpc.ankr.com/gnosis",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  }
+]
+

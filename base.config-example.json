@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "Base Public RPC 1",
+    "httpEndpoint": "https://base.llamarpc.com",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  },
+  {
+    "slug": "Base Public RPC 2",
+    "httpEndpoint": "https://rpc.notadegen.com/base",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  },
+  {
+    "slug": "Base Public RPC 3",
+    "httpEndpoint": "https://base.publicnode.com",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  }
+]

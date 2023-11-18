@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "zkSync Era Public RPC 1",
+    "httpEndpoint": "https://mainnet.era.zksync.io",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  },
+  {
+    "slug": "zkSync Era Public RPC 2",
+    "httpEndpoint": "https://1rpc.io/zksync2-era",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  },
+  {
+    "slug": "zkSync Era Public RPC 3",
+    "httpEndpoint": "https://zksync-era.blockpi.network/v1/rpc/public",
+    "downAt": null,
+    "lat": "51.5085",
+    "lon": "-0.1257"
+  }
+]
+
