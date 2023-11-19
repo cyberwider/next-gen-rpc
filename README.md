@@ -8,7 +8,9 @@
 </div>
 
 ## Applicable for such blockchain protocols:
-Ethereum, BSC, Polygon, Scroll, Gnosis Chain, Arbitrum, zkSync, Filecoin EVM, Near’s Aurora EVM, Starknet, Mantle, Base, Neon EVM, Aztec
+Ethereum: https://github.com/cyberwider/next-gen-rpc/blob/main/ethereum.config-example.json
+
+, BSC, Polygon, Scroll, Gnosis Chain, Arbitrum, zkSync, Filecoin EVM, Near’s Aurora EVM, Starknet, Mantle, Base, Neon EVM, Aztec
 
 ## Simplified Architecture Overview
 
