@@ -9,7 +9,9 @@
 
 ## Applicable for such blockchain protocols:
 Arbitrum: https://github.com/cyberwider/next-gen-rpc/blob/main/arbitrum.config-example.json 
+
 Aurora (Near's EVM): https://github.com/cyberwider/next-gen-rpc/blob/main/aurora.config-example.json
+
 Aztec: https://github.com/cyberwider/next-gen-rpc/blob/main/aztec.config-example.json
 Base: https://github.com/cyberwider/next-gen-rpc/blob/main/base.config-example.json
 BSC: https://github.com/cyberwider/next-gen-rpc/blob/main/bnb.config-example.json
