@@ -8,21 +8,32 @@
 </div>
 
 ## Applicable for such blockchain protocols:
-Arbitrum: https://github.com/cyberwider/next-gen-rpc/blob/main/arbitrum.config-example.json 
+Arbitrum: https://github.com/cyberwider/next-gen-rpc/blob/main/arbitrum.config-example.json
 
 Aurora (Near's EVM): https://github.com/cyberwider/next-gen-rpc/blob/main/aurora.config-example.json
 
 Aztec: https://github.com/cyberwider/next-gen-rpc/blob/main/aztec.config-example.json
+
 Base: https://github.com/cyberwider/next-gen-rpc/blob/main/base.config-example.json
+
 BSC: https://github.com/cyberwider/next-gen-rpc/blob/main/bnb.config-example.json
+
 Ethereum: https://github.com/cyberwider/next-gen-rpc/blob/main/ethereum.config-example.json
+
 Filecoin EVM: https://github.com/cyberwider/next-gen-rpc/blob/main/filecoin.config-example.json
+
 Gnosis Chain: https://github.com/cyberwider/next-gen-rpc/blob/main/gnosis.config-example.json
+
 Mantle: https://github.com/cyberwider/next-gen-rpc/blob/main/mantle.config-example.json
+
 Neon EVM: https://github.com/cyberwider/next-gen-rpc/blob/main/neon-evm.config-example.json
+
 Polygon: https://github.com/cyberwider/next-gen-rpc/blob/main/polygon.config-example.json
+
 Scroll: https://github.com/cyberwider/next-gen-rpc/blob/main/scroll.config-example.json
+
 StarkNet: https://github.com/cyberwider/next-gen-rpc/blob/main/starknet.config-example.json
+
 zkSync: https://github.com/cyberwider/next-gen-rpc/blob/main/zksync.config-example.json
 
 ## Simplified Architecture Overview
